@@ -17,3 +17,4 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+@octocat :+1: This PR looks great - it's ready to merge! :shipit: 
